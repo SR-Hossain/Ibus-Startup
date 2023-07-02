@@ -2,11 +2,11 @@
 Add ibus to startup in linux
 
 
-<code>
+```bash
 chmod +x ibus.sh
 cp ibus.sh ~/
 cp ibus.desktop ~/.config/autostart/ibus.desktop
-</code>
+```
 
 
 ## Then Reboot
